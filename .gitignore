@@ -25,3 +25,4 @@ website/node_modules
 .terraform.lock.hcl
 plan-out
 plan1-out
+plan.out
